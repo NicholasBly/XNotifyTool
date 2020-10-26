@@ -1,0 +1,10 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\bin\Debug\Custom Xnotify Tool.exe.config
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\obj\Debug\CokeMods_JRPC_Tool.Form1.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\obj\Debug\Custom_Xnotify_Tool.Properties.Resources.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\obj\Debug\Custom Xnotify Tool.csproj.GenerateResource.Cache
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\bin\Debug\Custom Xnotify Tool.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\bin\Debug\Custom Xnotify Tool.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\bin\Debug\JRPC.dll
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\obj\Debug\Custom Xnotify Tool.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\obj\Debug\Custom Xnotify Tool.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\Custom Xnotify Tool\Custom Xnotify Tool\obj\Debug\JRPC_Example.Form1.resources
